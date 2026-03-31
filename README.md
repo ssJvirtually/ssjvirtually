@@ -5,8 +5,9 @@
 
 <p align="center">
   <a href="mailto:jakka.shashi@outlook.com">Email</a> •
-  <a href="https://github.com/ssjvirtually">GitHub</a> •
   <a href="https://linkedin.com/in/ssjvirtually">LinkedIn</a>
+  <a href="https://x.com/ssJvirtually">X</a>
+
 </p>
 
 ---
