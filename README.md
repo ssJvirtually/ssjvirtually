@@ -1,6 +1,6 @@
 <h1 align="center">Shashi Jakka</h1>
 <p align="center">
-  Java Developer • Microservices • Cloud • System Design
+  Java Developer • Microservices • Cloud Solutions Specialist • AI Dev
 </p>
 
 <p align="center">
